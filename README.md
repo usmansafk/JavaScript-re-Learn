@@ -11,6 +11,7 @@ Multi-paradigm; can be write code in Object oriented or Functional programming
 Runs on client/browser as well on server to interact with server using Node.js
 
 Re-learning Syntax for:
+
 • Variables & Data Types
 • Arrays
 • Object Literals
